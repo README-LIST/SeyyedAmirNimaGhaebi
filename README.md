@@ -15,7 +15,7 @@
 
 <h2>How did I get to know programming?</h2>
 
-<p align="left">Hello, my name is Seyyed Amir Nima Ghabisi.
+<p align="left">Hello, my name is Seyyed Amir Nima Ghaebi.
 
 I am from the city of Zanjan. I was interested in electronics since I was a child. I wanted to learn and make more things. My cousin taught me about electronics and I progressed so much that I reached the programming section of Arduino boards and from there I fell in love with programming.
 
