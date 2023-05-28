@@ -54,4 +54,4 @@ You can see the certificates I have received so far in Flutter programming:
 
 <h2 align="left">how much do i know?</h2>
 
-<h3 align="left">Flutter | 90%</h2><img src="https://github.com/SeyyedAmirNimaGhaebi/SeyyedAmirNimaGhaebi/blob/main/image/bar.png?raw=true" height="15px" width="450px">
+<h3 align="left">Flutter framework | 90%</h2><img src="https://github.com/SeyyedAmirNimaGhaebi/SeyyedAmirNimaGhaebi/blob/main/image/bar.png?raw=true" height="15px" width="900px">
