@@ -45,12 +45,7 @@ You can see the certificates I have received so far in Flutter programming:
 در کنار برنامه نویسی مهارت های کوچیک دیگه ی هم دارم مثل کار با نرم افزار Word و PowerPoint ، تایپ.
 
 خوشحال میشم بتونم کمکی بهت بکنم.
-
-میتونید مدرک هایی که تا الان در برنامه نویسی فلاتر گرفتم رو ببینید:
-
-. https://s8.uupload.ir/files/download_2z0s.jpg
-  
-. https://s8.uupload.ir/files/download_(1)_3gw2.jpg</p>
+</p>
 
 
 <h2 align="left">how much do i know?</h2>
