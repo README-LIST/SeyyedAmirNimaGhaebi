@@ -89,4 +89,4 @@ You can see below the certificate of completion of the courses that I took in th
 
 
 
-![Untitled-1](https://user-images.githubusercontent.com/78899995/216938991-1573b652-12ed-42c7-b560-09f005dea4a1.jpg)
+![Untitled-1](https://github.com/SeyyedAmirNimaGhaebi/SeyyedAmirNimaGhaebi/assets/124828880/23c507ed-4b3d-424d-9ead-b824b5f8a911)
