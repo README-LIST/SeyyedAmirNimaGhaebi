@@ -85,8 +85,11 @@ You can see below the certificate of completion of the courses that I took in th
 # My portfolio :
 
 
-##BMI-Project
-
+<h2>BMI-Project</h2>
 
 
 ![Untitled-1](https://github.com/SeyyedAmirNimaGhaebi/SeyyedAmirNimaGhaebi/assets/124828880/23c507ed-4b3d-424d-9ead-b824b5f8a911)
+
+
+<h2>More details about the project :</h2>
+<h2>Connect with me:</h2>
