@@ -91,7 +91,4 @@ You can see below the certificate of completion of the courses that I took in th
 ![Untitled-1](https://github.com/SeyyedAmirNimaGhaebi/SeyyedAmirNimaGhaebi/assets/124828880/23c507ed-4b3d-424d-9ead-b824b5f8a911)
 
 <p align="left"">More details about the project :</p>
-
-<p align="left"">https://github.com/SeyyedAmirNimaGhaebi/BMI-Project</p>
-
 <a href="https://github.com/SeyyedAmirNimaGhaebi/BMI-Project">https://github.com/SeyyedAmirNimaGhaebi/BMI-Project</a>
