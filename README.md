@@ -93,3 +93,5 @@ You can see below the certificate of completion of the courses that I took in th
 
 <p align="left"">More details about the project :</p>
 <a href="https://github.com/SeyyedAmirNimaGhaebi/BMI-Project">https://github.com/SeyyedAmirNimaGhaebi/BMI-Project</a>
+
+[![](https://visitcount.itsvg.in/api?id=SeyyedAmirNimaGhaebi&label=Profile%20Views&color=12&icon=0&pretty=true)](https://visitcount.itsvg.in)
