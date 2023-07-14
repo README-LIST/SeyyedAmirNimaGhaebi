@@ -31,6 +31,7 @@ I am happy to help you.
 You can see below the certificate of completion of the courses that I took in the Flutter courses and the examples of work that I have done so far.
 
 
+---
 <h2 align="left">how much do i know?</h2>
 
 <h3 align="left">Flutter framework | 90%</h2><img src="https://github.com/SeyyedAmirNimaGhaebi/SeyyedAmirNimaGhaebi/blob/main/image/bar.png?raw=true" height="13px" width="900px">
