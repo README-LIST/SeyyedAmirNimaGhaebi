@@ -76,9 +76,16 @@ You can see below the certificate of completion of the courses that I took in th
 
 ![Untitled-1](https://github.com/SeyyedAmirNimaGhaebi/SeyyedAmirNimaGhaebi/assets/124828880/23c507ed-4b3d-424d-9ead-b824b5f8a911)
 
-<p align="left"">More details about the project :</p>
-<a href="https://github.com/SeyyedAmirNimaGhaebi/BMI-Project">https://github.com/SeyyedAmirNimaGhaebi/BMI-Project</a>
+<a href="https://github.com/SeyyedAmirNimaGhaebi/BMI-Project">More details about the project</a>
 
+---
+
+<h2>Login and sign up ui implementation project</h2>
+
+
+![Untitled-1](https://github.com/SeyyedAmirNimaGhaebi/SeyyedAmirNimaGhaebi/assets/124828880/23c507ed-4b3d-424d-9ead-b824b5f8a911)
+
+<a href="https://github.com/SeyyedAmirNimaGhaebi/BMI-Project">More details about the project</a>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=SeyyedAmirNimaGhaebi&label=Profile%20Views&color=12&icon=0&pretty=true)](https://visitcount.itsvg.in)
