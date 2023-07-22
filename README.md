@@ -46,8 +46,9 @@ You can see below the certificate of completion of the courses that I took in th
 ---
 # 📊 GitHub Stats:
          
-![](https://github-readme-stats.vercel.app/api?username=SeyyedAmirNimaGhaebi&theme=dark&hide_border=false&include_all_commits=true&count_private=true)![](https://github-readme-stats.vercel.app/api/top-langs/?username=SeyyedAmirNimaGhaebi&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-<br/>![](https://github-readme-streak-stats.herokuapp.com/?user=SeyyedAmirNimaGhaebi&theme=dark&hide_border=false)<br/>               
+![](https://github-readme-stats.vercel.app/api?username=SeyyedAmirNimaGhaebi&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+<br/>![](https://github-readme-streak-stats.herokuapp.com/?user=SeyyedAmirNimaGhaebi&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=SeyyedAmirNimaGhaebi&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)               
 
          
 ## 🔝 Top Contributed Repo
