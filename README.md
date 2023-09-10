@@ -32,18 +32,6 @@ You can see below the certificate of completion of the courses that I took in th
 
 
 ---
-<h2 align="left">how much do i know?</h2>
-
-<h3 align="left">Flutter framework | 90%</h2><img src="https://github.com/SeyyedAmirNimaGhaebi/SeyyedAmirNimaGhaebi/blob/main/image/bar.png?raw=true" height="13px" width="900px">
-
-<h3 align="left">ِDart programming language | 75%</h2><img src="https://github.com/SeyyedAmirNimaGhaebi/SeyyedAmirNimaGhaebi/blob/main/image/bar.png?raw=true" height="13px" width="700px">
-
-<h3 align="left">C# programming language | 60%</h2><img src="https://github.com/SeyyedAmirNimaGhaebi/SeyyedAmirNimaGhaebi/blob/main/image/bar.png?raw=true" height="13px" width="600px">
-
-<h3 align="left">Php programming language | 25%</h2><img src="https://github.com/SeyyedAmirNimaGhaebi/SeyyedAmirNimaGhaebi/blob/main/image/bar.png?raw=true" height="13px" width="250px">
-
-
----
 # 📊 GitHub Stats:
          
 ![](https://github-readme-stats.vercel.app/api?username=SeyyedAmirNimaGhaebi&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
@@ -86,18 +74,6 @@ You can see below the certificate of completion of the courses that I took in th
 ![Untitled-1](https://github.com/SeyyedAmirNimaGhaebi/SeyyedAmirNimaGhaebi/assets/124828880/be27c1bd-4043-4649-9200-2b2a917706bc)
 
 <a href="https://github.com/SeyyedAmirNimaGhaebi/Login-and-Signup-Ui">More details about the project</a>
-
-# Projects done for the client :
-
----
-
-<h2>Pharmaceutical Service</h2>
-
-![Untitled-1](https://github.com/SeyyedAmirNimaGhaebi/SeyyedAmirNimaGhaebi/assets/124828880/23c507ed-4b3d-424d-9ead-b824b5f8a911)
-
-<a href="https://github.com/SeyyedAmirNimaGhaebi/Pharmaceutical_Services">More details about the project</a>
-
----
 
 
 
