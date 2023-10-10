@@ -50,7 +50,7 @@ You can see below the certificate of completion of the courses that I took in th
 ---
 # Certificate of course completion :
 
-<a href="https://t.me/AmirGh_666"><img src="https://github.com/SeyyedAmirNimaGhaebi/SeyyedAmirNimaGhaebi/assets/124828880/4f0ce5b7-7895-4ac9-aa45-aeed1aa84cb2" height="50px" width="50px"></a>
+<a href="https://t.me/AmirGh_666"><img src="https://github.com/SeyyedAmirNimaGhaebi/SeyyedAmirNimaGhaebi/blob/main/image/21603.jpg" height="50px" width="50px"></a>
 
          
 ![Untitled-1](https://github.com/SeyyedAmirNimaGhaebi/SeyyedAmirNimaGhaebi/assets/124828880/93994419-2433-430c-b0a0-e21a403c56d7)
