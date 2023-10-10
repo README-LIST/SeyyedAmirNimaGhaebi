@@ -42,10 +42,6 @@ You can see below the certificate of completion of the courses that I took in th
 <br/>![](https://github-readme-streak-stats.herokuapp.com/?user=SeyyedAmirNimaGhaebi&theme=dark&hide_border=false)<br/>    
 ![](https://github-contributor-stats.vercel.app/api?username=SeyyedAmirNimaGhaebi&limit=5&theme=dracula&combine_all_yearly_contributions=true)
 
-
----
-
-
 ---
 # My best portfolios :
 
