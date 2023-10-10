@@ -54,7 +54,7 @@ You can see below the certificate of completion of the courses that I took in th
 <a href="https://github.com/SeyyedAmirNimaGhaebi/Login-and-Signup-Ui">More details about the project</a>
 
 
-# Certificate of achievement :
+# Certificate of achievements :
 
 
 ![Untitled-1](https://github.com/SeyyedAmirNimaGhaebi/SeyyedAmirNimaGhaebi/assets/124828880/4f0ce5b7-7895-4ac9-aa45-aeed1aa84cb2)
