@@ -45,7 +45,7 @@ You can see below the certificate of completion of the courses that I took in th
 ---
 
 # Articles :
-![Untitled-1](https://github.com/SeyyedAmirNimaGhaebi/SeyyedAmirNimaGhaebi/blob/main/image/telegram_app_88px.png?raw=true)
+![Untitled-1](https://github.com/SeyyedAmirNimaGhaebi/SeyyedAmirNimaGhaebi/assets/124828880/5cdde0e3-62ba-45c9-ac22-f0d9a4027025)
 
 
 ---
