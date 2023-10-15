@@ -55,9 +55,6 @@ I think these code repositories are okay...
   </tbody>
 </table>
 
-📊 **some stats**
-
-
 ---
 
 # 📊 GitHub Stats:   
@@ -66,11 +63,9 @@ I think these code repositories are okay...
 
 ![](https://github-readme-stats.vercel.app/api?username=SeyyedAmirNimaGhaebi&theme=dark&show_icons=true)    
 
-<br/>![](https://github-readme-streak-stats.herokuapp.com/?user=SeyyedAmirNimaGhaebi&theme=dark&hide_border=false)<br/>    
+![](https://github-readme-streak-stats.herokuapp.com/?user=SeyyedAmirNimaGhaebi&theme=dark&hide_border=false) 
 
 ![](https://github-contributor-stats.vercel.app/api?username=SeyyedAmirNimaGhaebi&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
- 
 
 ---
 
