@@ -70,13 +70,16 @@ I think these code repositories are okay...
     </tr>
   </tbody>
 </table>
+
+
 ---
+
 # 📊 GitHub Stats:
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SeyyedAmirNimaGhaebi&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)           
 <br/>![](https://github-readme-streak-stats.herokuapp.com/?user=SeyyedAmirNimaGhaebi&theme=dark&hide_border=false)<br/>    
 ![](https://github-contributor-stats.vercel.app/api?username=SeyyedAmirNimaGhaebi&limit=5&theme=dracula&combine_all_yearly_contributions=true)
-<br/>![](https://github-readme-stats.vercel.app/api/top-langs/?username=SeyyedAmirNimaGhaebi&theme=dark)<br/>    
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=SeyyedAmirNimaGhaebi&theme=dark)  
 
 ---
 
