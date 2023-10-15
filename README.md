@@ -36,6 +36,41 @@ You can see below the certificate of completion of the courses that I took in th
 
 
 ---
+I think these code repositories are okay...
+
+<table>
+  <tbody>
+    <tr>
+      <td>
+        <a href="https://github.com/Nealyang/React-Express-Blog-Demo">
+          <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Nealyang&repo=React-Express-Blog-Demo&theme=chartreuse-dark" />
+        </a>
+      </td>
+       <td>
+        <a href="https://github.com/Nealyang/PersonalBlog">
+          <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Nealyang&repo=PersonalBlog&theme=chartreuse-dark" />
+        </a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+📊 **some stats**
+
+
+<table>
+  <tbody>
+    <tr>
+      <td>
+          <img align="center" src="https://github-readme-stats.vercel.app/api?username=Nealyang&theme=chartreuse-dark&show_icons=true" />
+      </td>
+       <td>
+          <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nealyang&theme=chartreuse-dark" />
+      </td>
+    </tr>
+  </tbody>
+</table>
+---
 # 📊 GitHub Stats:
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SeyyedAmirNimaGhaebi&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)           
