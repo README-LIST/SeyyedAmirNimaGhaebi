@@ -64,7 +64,7 @@ I think these code repositories are okay...
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SeyyedAmirNimaGhaebi&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-![sd](https://starchart.cc/SeyyedAmirNimaGhaebi/{repo}.svg)
+![sd](https://starchart.cc/SeyyedAmirNimaGhaebi/SeyyedAmirNimaGhaebi.svg)
 
 ![](https://github-readme-stats.vercel.app/api?username=SeyyedAmirNimaGhaebi&theme=dark&show_icons=true)    
 
