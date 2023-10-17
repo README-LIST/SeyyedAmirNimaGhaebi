@@ -66,7 +66,7 @@ I think these code repositories are okay...
 
 ![sd](https://starchart.cc/SeyyedAmirNimaGhaebi/{repo}.svg)
 
-![test](https://github-readme-stats.vercel.app/api?username=SeyyedAmirNimaGhaebi&theme=dark&show_icons=true)    
+![](https://github-readme-stats.vercel.app/api?username=SeyyedAmirNimaGhaebi&theme=dark&show_icons=true)    
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=SeyyedAmirNimaGhaebi&theme=dark&hide_border=false) 
 
