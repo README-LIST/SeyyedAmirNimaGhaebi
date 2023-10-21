@@ -119,7 +119,7 @@ I think these code repositories are okay...
 ![Untitled-1](https://github.com/SeyyedAmirNimaGhaebi/SeyyedAmirNimaGhaebi/assets/124828880/93994419-2433-430c-b0a0-e21a403c56d7)
 
 
-<a href="https://github.com/SeyyedAmirNimaGhaebi/Certificate-of-achievement"><img src="https://github.com/SeyyedAmirNimaGhaebi/SeyyedAmirNimaGhaebi/assets/124828880/372d4cd4-e015-4ef4-99cd-0e1efc797727"></a>
+<a href="https://github.com/SeyyedAmirNimaGhaebi/Certificate-of-achievement"><img src="https://github.com/SeyyedAmirNimaGhaebi/SeyyedAmirNimaGhaebi/assets/124828880/372d4cd4-e015-4ef4-99cd-0e1efc797727"height="50px" width="50px"></a>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=SeyyedAmirNimaGhaebi&label=Profile%20Views&color=12&icon=0&pretty=true)](https://visitcount.itsvg.in)
