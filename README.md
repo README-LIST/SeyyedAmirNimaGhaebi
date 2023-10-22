@@ -120,4 +120,4 @@ I think these code repositories are okay...
 <a href="https://github.com/SeyyedAmirNimaGhaebi/Certificate-of-achievement">View all certificates of success</a>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=SeyyedAmirNimaGhaebi&label=Profile%20Views&color=12&icon=1&pretty=true)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=SeyyedAmirNimaGhaebi&label=Profile%20Views&color=3&icon=1&pretty=true)](https://visitcount.itsvg.in)
