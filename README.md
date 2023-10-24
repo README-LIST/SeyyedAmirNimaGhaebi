@@ -112,7 +112,7 @@ I think these code repositories are okay...
 
 ---
 
-<a href="https://github.com/SeyyedAmirNimaGhaebi/Certificate-of-achievement">View all certificates of success</a>
+<a href="https://github.com/SeyyedAmirNimaGhaebi/Certificate-of-achievement">View all portfolios</a>
 
 ---
 
