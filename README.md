@@ -109,9 +109,9 @@ I think these code repositories are okay...
 ---
 ![Untitled-1](https://github.com/SeyyedAmirNimaGhaebi/SeyyedAmirNimaGhaebi/assets/124828880/be27c1bd-4043-4649-9200-2b2a917706bc)
 
-<a href="https://github.com/SeyyedAmirNimaGhaebi/Login-and-Signup-Ui">More details about the project</a>
+<a href="https://github.com/SeyyedAmirNimaGhaebi/Login-and-Signup-Ui">👁 More details about the project</a>
 
-<a href="https://github.com/SeyyedAmirNimaGhaebi/My-best-portfolios">View all portfolios ></a>
+<a href="https://github.com/SeyyedAmirNimaGhaebi/My-best-portfolios">View all portfolios >›</a>
 
 ---
 
@@ -122,7 +122,7 @@ I think these code repositories are okay...
 ![Untitled-1](https://github.com/SeyyedAmirNimaGhaebi/SeyyedAmirNimaGhaebi/assets/124828880/4f0ce5b7-7895-4ac9-aa45-aeed1aa84cb2)
          
 ![Untitled-1](https://github.com/SeyyedAmirNimaGhaebi/SeyyedAmirNimaGhaebi/assets/124828880/93994419-2433-430c-b0a0-e21a403c56d7)
-<a href="https://github.com/SeyyedAmirNimaGhaebi/Certificate-of-achievement">View all certificates of success</a>
+<a href="https://github.com/SeyyedAmirNimaGhaebi/Certificate-of-achievement">View all certificates of success >›</a>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=SeyyedAmirNimaGhaebi&label=Profile%20Views&color=3&icon=1&pretty=true)](https://visitcount.itsvg.in)
