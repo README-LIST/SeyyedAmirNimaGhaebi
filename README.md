@@ -124,5 +124,10 @@ I think these code repositories are okay...
 ![Untitled-1](https://github.com/SeyyedAmirNimaGhaebi/SeyyedAmirNimaGhaebi/assets/124828880/93994419-2433-430c-b0a0-e21a403c56d7)
 <a href="https://github.com/SeyyedAmirNimaGhaebi/Certificate-of-achievement">View all certificates of success >›</a>
 
+# 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=SeyyedAmirNimaGhaebi&theme=dark&no-frame=true&no-bg=true&margin-w=4)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
 ---
 [![](https://visitcount.itsvg.in/api?id=SeyyedAmirNimaGhaebi&label=Profile%20Views&color=3&icon=1&pretty=true)](https://visitcount.itsvg.in)
