@@ -125,7 +125,7 @@ I think these code repositories are okay...
 <a href="https://github.com/SeyyedAmirNimaGhaebi/Certificate-of-achievement">View all certificates of success >›</a>
 
 # 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=SeyyedAmirNimaGhaebi&theme=light&no-frame=true&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=SeyyedAmirNimaGhaebi&theme=dark&no-frame=true&no-bg=true&margin-w=4)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
