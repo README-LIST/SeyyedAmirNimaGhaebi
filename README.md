@@ -17,7 +17,7 @@
 <h3 align="center">Skills + Tools</h3>
 
 <div align="center">
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/androidstudio.svg" width="48" title="androidstudio">
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/AndroidStudio-Dark.svg" width="48" title="androidstudio">
   <img src="" width="48" title="">   
 </div>
 
