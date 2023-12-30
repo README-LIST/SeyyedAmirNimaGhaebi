@@ -12,8 +12,6 @@
 <a href="https://s8.uupload.ir/files/untitled_y017.png"><img src="https://github.com/SeyyedAmirNimaGhaebi/SeyyedAmirNimaGhaebi/blob/main/image/email_open_88px.png?raw=true" height="50px" width="50px">
 <a href=""><img src="https://github.com/SeyyedAmirNimaGhaebi/SeyyedAmirNimaGhaebi/blob/main/image/office_phone_88px.png?raw=true" height="50px" width="50px">
 
-![Followers](https://img.shields.io/github/followers/SeyyedAmirNimaGhaebi.svg?style=social&label=Follow&maxAge=2592000)
-
 <h2>How did I get to know programming?</h2>
 
 <p align="left">Hello, my name is Seyyed Amir Nima Ghaebi.
@@ -101,3 +99,4 @@ I think these code repositories are okay...
 
 ---
 [![](https://visitcount.itsvg.in/api?id=SeyyedAmirNimaGhaebi&label=Profile%20Views&color=3&icon=1&pretty=true)](https://visitcount.itsvg.in)
+![Followers](https://img.shields.io/github/followers/SeyyedAmirNimaGhaebi.svg?style=social&label=Follow&maxAge=2592000)
