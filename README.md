@@ -1,4 +1,4 @@
-![image](https://github.com/SeyyedAmirNimaGhaebi/SeyyedAmirNimaGhaebi/assets/124828880/2dc032d8-4ced-4d84-bc39-a075cb88b5b9)<h1 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
+<h1 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
 <img align="center" src="https://github.com/SeyyedAmirNimaGhaebi/SeyyedAmirNimaGhaebi/assets/124828880/5d4c6038-71f3-4a6a-92ac-8b0a3325d8fe" alt="Just for Fun :D">
 
