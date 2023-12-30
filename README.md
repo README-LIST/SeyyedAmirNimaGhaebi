@@ -83,6 +83,27 @@ I think these code repositories are okay...
 
 ![](https://github-contributor-stats.vercel.app/api?username=SeyyedAmirNimaGhaebi&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
+
+<h2 align="center">Open Source Projects 🐙</h2>
+
+<div align="center" justify="center">
+<a href="https://github.com/vito-mohagheghian/wins-11"><img src="https://github-readme-stats.vercel.app/api/pin/?username=vito-mohagheghian&repo=wins-11&theme=algolia&hide_border=true&name=vito&"></a> <a href="https://github.com/vito-mohagheghian/dev-tab"><img src="https://github-readme-stats.vercel.app/api/pin/?username=vito-mohagheghian&repo=dev-tab&theme=algolia&hide_border=true&"></a>&nbsp;
+</div>
+
+<h2 align="center">Github Status 👻</h2>
+
+<div align="center">
+  <div>
+    <a href="https://github.com/vito-mohagheghian" title="Go to Source">
+      <img width=400 src="https://github-readme-stats.vercel.app/api?username=vito-mohagheghian&show_icons=true&theme=algolia&hide_border=true" alt="zumrudu-anka" />
+    </a>
+    <a href="https://github.com/vito-mohagheghian" title="Go to Source">
+      <img width=400 src="https://github-readme-streak-stats.herokuapp.com?user=vito-mohagheghian&theme=algolia&hide_border=true" />
+    </a>
+  </div>
+  <br>
+</div>
+
 ---
 
 # 📕 Articles :
@@ -113,6 +134,17 @@ I think these code repositories are okay...
          
 ![Untitled-1](https://github.com/SeyyedAmirNimaGhaebi/SeyyedAmirNimaGhaebi/assets/124828880/93994419-2433-430c-b0a0-e21a403c56d7)
 <a href="https://github.com/SeyyedAmirNimaGhaebi/Certificate-of-achievement">View all certificates of success >›</a>
+
+<h2 align="center">Support Me 🫠</h2>
+ 
+<div align="center" style="display:flex;">
+<h3 align="center">Buy me a Coffee ☕</h3>
+ 
+<a href="https://www.coffeebede.com/vitomohagheghian">
+    <img class="img-fluid" src="https://coffeebede.ir/DashboardTemplateV2/app-assets/images/banner/default-yellow.svg" width="200"/>
+</a>
+</div>
+
 
 # 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=SeyyedAmirNimaGhaebi&theme=dark&no-frame=true&no-bg=true&margin-w=4)
