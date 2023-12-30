@@ -4,13 +4,16 @@
 
 <p align="center">I started programming when I was 12 years old and now I work with the advanced Flutter framework</p>
 
-<h2>Connect with me:</h2>
+<h2 align="center">Connect with me:</h2>
 
-<a href="https://t.me/AmirGh_666"><img src="https://github.com/SeyyedAmirNimaGhaebi/SeyyedAmirNimaGhaebi/blob/main/image/telegram_app_88px.png?raw=true" height="50px" width="50px"></a>
-<a href="https://www.youtube.com/channel/UC_kZNtkh55fPCCUAcM4ABmg"><img src="https://github.com/SeyyedAmirNimaGhaebi/SeyyedAmirNimaGhaebi/blob/main/image/YouTube_88px.png?raw=true" height="50px" width="50px"></a></a>
-<a href="https://www.instagram.com/amirgh_888/#"><img src="https://github.com/SeyyedAmirNimaGhaebi/SeyyedAmirNimaGhaebi/blob/main/image/instagram_logo_88px.png?raw=true" height="50px" width="50px">
-<a href="https://s8.uupload.ir/files/untitled_y017.png"><img src="https://github.com/SeyyedAmirNimaGhaebi/SeyyedAmirNimaGhaebi/blob/main/image/email_open_88px.png?raw=true" height="50px" width="50px">
-<a href=""><img src="https://github.com/SeyyedAmirNimaGhaebi/SeyyedAmirNimaGhaebi/blob/main/image/office_phone_88px.png?raw=true" height="50px" width="50px">
+<div align="center">
+  <a href="https://t.me/AmirGh_666"><img src="https://github.com/SeyyedAmirNimaGhaebi/SeyyedAmirNimaGhaebi/blob/main/image/telegram_app_88px.png?raw=true" height="50px" width="50px"></a>
+  <a href="https://www.youtube.com/channel/UC_kZNtkh55fPCCUAcM4ABmg"><img src="https://github.com/SeyyedAmirNimaGhaebi/SeyyedAmirNimaGhaebi/blob/main/image/YouTube_88px.png?raw=true" height="50px"width="50px"></a></a>
+  <a href="https://www.instagram.com/amirgh_888/#"><img src="https://github.com/SeyyedAmirNimaGhaebi/SeyyedAmirNimaGhaebi/blob/main/image/instagram_logo_88px.png?raw=true" height="50px" width="50px">
+  <a href="https://s8.uupload.ir/files/untitled_y017.png"><img src="https://github.com/SeyyedAmirNimaGhaebi/SeyyedAmirNimaGhaebi/blob/main/image/email_open_88px.png?raw=true" height="50px" width="50px">
+  <a href=""><img src="https://github.com/SeyyedAmirNimaGhaebi/SeyyedAmirNimaGhaebi/blob/main/image/office_phone_88px.png?raw=true" height="50px" width="50px">
+  <img src="" width="48" title="">   
+</div>
 
 <h2 align="center">My Current Tech Stack 🚀</h2>
 
