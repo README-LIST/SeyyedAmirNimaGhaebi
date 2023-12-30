@@ -86,12 +86,6 @@ I think these code repositories are okay...
 ![](https://github-contributor-stats.vercel.app/api?username=SeyyedAmirNimaGhaebi&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 
-<h2 align="center">Open Source Projects 🐙</h2>
-
-<div align="center" justify="center">
-<a href="https://github.com/vito-mohagheghian/wins-11"><img src="https://github-readme-stats.vercel.app/api/pin/?username=vito-mohagheghian&repo=wins-11&theme=algolia&hide_border=true&name=vito&"></a> <a href="https://github.com/vito-mohagheghian/dev-tab"><img src="https://github-readme-stats.vercel.app/api/pin/?username=vito-mohagheghian&repo=dev-tab&theme=algolia&hide_border=true&"></a>&nbsp;
-</div>
-
 <h2 align="center">Github Status 👻</h2>
 
 <div align="center">
@@ -104,6 +98,15 @@ I think these code repositories are okay...
     </a>
   </div>
   <br>
+</div>
+
+
+<h3 align="center">Plan To Learn</h3>
+<div align="center">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" width="48" title="JavaScript"> 
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg" width="48" title="TypeScript"> 
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg" width="48" title="NodeJs"> 
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg" width="48" title="MongoDB"> 
 </div>
 
 ---
