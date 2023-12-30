@@ -87,13 +87,13 @@ I think these code repositories are okay...
 
 # 📊 GitHub Stats:   
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SeyyedAmirNimaGhaebi&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=SeyyedAmirNimaGhaebi&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-![](https://github-readme-stats.vercel.app/api?username=SeyyedAmirNimaGhaebi&theme=dark&show_icons=true)    
+![](https://github-readme-stats.vercel.app/api?username=SeyyedAmirNimaGhaebi&theme=dark&show_icons=true&hide_border=true)    
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=SeyyedAmirNimaGhaebi&theme=dark&hide_border=false) 
+![](https://github-readme-streak-stats.herokuapp.com/?user=SeyyedAmirNimaGhaebi&theme=dark&hide_border=true) 
 
-![](https://github-contributor-stats.vercel.app/api?username=SeyyedAmirNimaGhaebi&limit=5&theme=algolia&hide_border=true&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=SeyyedAmirNimaGhaebi&limit=5&theme=dak&combine_all_yearly_contributions=true)
 
 ---
 
