@@ -146,6 +146,7 @@ I think these code repositories are okay...
 </div>
 
 <h1 align="center">🏆 GitHub Trophies</h1>
+
 ![](https://github-profile-trophy.vercel.app/?username=SeyyedAmirNimaGhaebi&theme=dark&no-frame=true&no-bg=true&margin-w=4)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
