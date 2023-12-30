@@ -54,6 +54,7 @@ You can see below the certificate of completion of the courses that I took in th
 ---
 I think these code repositories are okay...
 
+<div align="center">
 <table>
   <tbody>
     <tr>
@@ -70,6 +71,7 @@ I think these code repositories are okay...
     </tr>
   </tbody>
 </table>
+</div>
 
 ---
 
