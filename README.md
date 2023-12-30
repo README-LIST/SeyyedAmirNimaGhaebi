@@ -38,7 +38,6 @@
 <h3 align="center">Plan To Learn</h3>
 <div align="center">
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" width="48" title="JavaScript"> 
-  //<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg" width="48" title="TypeScript"> 
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg" width="48" title="NodeJs"> 
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg" width="48" title="MongoDB"> 
 </div>
