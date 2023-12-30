@@ -93,7 +93,7 @@ I think these code repositories are okay...
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=SeyyedAmirNimaGhaebi&theme=dark&hide_border=false) 
 
-![](https://github-contributor-stats.vercel.app/api?username=SeyyedAmirNimaGhaebi&limit=5&show_icons=true&theme=algolia&hide_border=truecombine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=SeyyedAmirNimaGhaebi&limit=5&theme=algolia&hide_border=true&combine_all_yearly_contributions=true)
 
 ---
 
