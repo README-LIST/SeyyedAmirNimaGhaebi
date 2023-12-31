@@ -33,6 +33,7 @@
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" width="48" title="Git">
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" width="48" title="Github">
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Postman.svg" width="48" title="Postman">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Dark.svg" width="48" title="Figma">
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/XD.svg" width="48" title="Xd">
   <img src="" width="48" title="">   
 </div>
