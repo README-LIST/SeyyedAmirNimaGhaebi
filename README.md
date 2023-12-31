@@ -4,6 +4,8 @@
 
 <p align="center">I started programming when I was 12 years old and now I work with the advanced Flutter framework</p>
 
+![Untitled-1](https://github.com/SeyyedAmirNimaGhaebi/SeyyedAmirNimaGhaebi/assets/124828880/301cabce-88ac-4e58-948b-5c63b6402d69)
+
 <h2 align="center">Connect with me:</h2>
 
 <div align="center">
