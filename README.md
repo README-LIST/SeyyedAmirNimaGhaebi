@@ -127,16 +127,6 @@ I think these code repositories are okay...
 ![Untitled-1](https://github.com/SeyyedAmirNimaGhaebi/SeyyedAmirNimaGhaebi/assets/124828880/93994419-2433-430c-b0a0-e21a403c56d7)
 <a href="https://github.com/SeyyedAmirNimaGhaebi/Certificate-of-achievement">View all certificates of success >›</a>
 
-<h2 align="center">Support Me 🫠</h2>
- 
-<div align="center" style="display:flex;">
-<h3 align="center">Buy me a Coffee ☕</h3>
- 
-<a href="https://www.coffeebede.com/seyyedamirnimaghaebi">
-    <img class="img-fluid" src="https://coffeebede.ir/DashboardTemplateV2/app-assets/images/banner/default-yellow.svg" width="200"/>
-</a>
-</div>
-
 <h1 align="center">🏆 GitHub Trophies</h1>
 
 ![](https://github-profile-trophy.vercel.app/?username=SeyyedAmirNimaGhaebi&theme=dark&no-frame=true&no-bg=true&margin-w=4)
