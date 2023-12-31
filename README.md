@@ -82,11 +82,6 @@ I think these code repositories are okay...
           <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SeyyedAmirNimaGhaebi&repo=pub_news&theme=dark" />
         </a>
       </td>
-      <td>
-        <a href="https://github.com/SeyyedAmirNimaGhaebi/Login-and-Signup-Ui">
-          <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SeyyedAmirNimaGhaebi&repo=Login-and-Signup-Ui&theme=dark" />
-        </a>
-      </td>
     </tr>
   </tbody>
 </table>
