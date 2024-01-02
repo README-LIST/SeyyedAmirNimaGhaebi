@@ -101,7 +101,7 @@ I think these code repositories are okay...
 
 | تصویر اول | تصویر دوم |
 |:----------:|:----------:|
-| <img align="center" src="(https://github-readme-streak-stats.herokuapp.com/?user=SeyyedAmirNimaGhaebi&theme=dark&hide_border=true" />|  <img align="center" src="https://github-readme-stats.vercel.app/api?username=SeyyedAmirNimaGhaebi&theme=dark&show_icons=true&hide_border=true" /> |
+| <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SeyyedAmirNimaGhaebi&theme=dark&hide_border=true" />|  <img align="center" src="https://github-readme-stats.vercel.app/api?username=SeyyedAmirNimaGhaebi&theme=dark&show_icons=true&hide_border=true" /> |
 
 ---
 
