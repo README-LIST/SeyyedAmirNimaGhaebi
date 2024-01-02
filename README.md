@@ -101,20 +101,8 @@ I think these code repositories are okay...
 
 <div align="center">
 <table>
-  <tbody>
-    <tr>
-      <td>
-        <a href="https://github.com/SeyyedAmirNimaGhaebi/DataBase_hive_in_flutter">
-           <img align="center" src="https://github-readme-stats.vercel.app/api?username=SeyyedAmirNimaGhaebi&theme=dark&show_icons=true&hide_border=true" />
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/SeyyedAmirNimaGhaebi/pub_news">
-         <img align="center" src="(https://github-readme-streak-stats.herokuapp.com/?user=SeyyedAmirNimaGhaebi&theme=dark&hide_border=true" />
-        </a>
-      </td>
-    </tr>
-  </tbody>
+<img align="center" src="(https://github-readme-streak-stats.herokuapp.com/?user=SeyyedAmirNimaGhaebi&theme=dark&hide_border=true" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=SeyyedAmirNimaGhaebi&theme=dark&show_icons=true&hide_border=true" />
 </table>
 </div>
 ---
