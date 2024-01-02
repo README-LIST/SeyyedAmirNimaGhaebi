@@ -99,6 +99,21 @@ I think these code repositories are okay...
 
 ![](https://github-contributor-stats.vercel.app/api?username=SeyyedAmirNimaGhaebi&limit=5&theme=dark&hide_border=true&combine_all_yearly_contributions=true)
 
+<div align="center">
+<table>
+  <tbody>
+    <tr>
+      <td>
+       <img align="center" src="https://github-readme-stats.vercel.app/api?username=SeyyedAmirNimaGhaebi&theme=dark&show_icons=true&hide_border=true" />
+      </td>
+      <td>
+        <img align="center" src="(https://github-readme-streak-stats.herokuapp.com/?user=SeyyedAmirNimaGhaebi&theme=dark&hide_border=true" />
+      </td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
 ---
 
 # 📕 Articles :
