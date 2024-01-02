@@ -103,6 +103,10 @@ I think these code repositories are okay...
 |:----------:|:----------:|
 | <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SeyyedAmirNimaGhaebi&theme=dark&hide_border=true" />|  <img align="center" src="https://github-readme-stats.vercel.app/api?username=SeyyedAmirNimaGhaebi&theme=dark&show_icons=true&hide_border=true" /> |
 
+| تصویر اول | تصویر دوم |
+|:----------:|:----------:|
+| <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeyyedAmirNimaGhaebi&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />|  <img align="center" src="https://github-contributor-stats.vercel.app/api?username=SeyyedAmirNimaGhaebi&limit=5&theme=dark&hide_border=true&combine_all_yearly_contributions=true" /> |
+
 ---
 
 # 📕 Articles :
