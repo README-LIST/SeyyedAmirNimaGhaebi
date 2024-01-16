@@ -16,6 +16,10 @@
   <a href=""><img src="https://github.com/SeyyedAmirNimaGhaebi/SeyyedAmirNimaGhaebi/blob/main/image/office_phone_88px.png?raw=true" height="50px" width="50px">
   <img src="" width="48" title="">   
 </div>
+<a href="https://t.me/AmirGh_666"><img src="https://github.com/SeyyedAmirNimaGhaebi/SeyyedAmirNimaGhaebi/blob/main/image/Untitled-6.png?raw=true" ></a>
+<div align="center">
+  
+</div>
 
 <h2 align="center">My Current Tech Stack 🚀</h2>
 
