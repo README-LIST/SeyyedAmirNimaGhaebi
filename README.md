@@ -51,9 +51,9 @@
 <h2 align="center">👇Don’t forget to follow my channels👇</h2>
 
 <div align="center">
-   <a href="https://t.me/dev_music_channel"><img src="https://github.com/SeyyedAmirNimaGhaebi/SeyyedAmirNimaGhaebi/blob/main/image/dev-music-channel.png?raw=true" width="300px"></a>
-   <a href="https://t.me/AmirGh_666"><img src="https://github.com/SeyyedAmirNimaGhaebi/SeyyedAmirNimaGhaebi/blob/main/image/fluttershop-channel-youtube.png?raw=true" width="300px"></a>
-  <a href="https://t.me/dev_music_channel"><img src="https://github.com/SeyyedAmirNimaGhaebi/SeyyedAmirNimaGhaebi/blob/main/image/fluttershop-channel-instagram.png?raw=true" width="300px"></a>
+   <a href="https://t.me/dev_music_channel"><img src="https://github.com/SeyyedAmirNimaGhaebi/SeyyedAmirNimaGhaebi/blob/main/image/dev-music-channel.png?raw=true" width="290px"></a>
+   <a href="https://t.me/AmirGh_666"><img src="https://github.com/SeyyedAmirNimaGhaebi/SeyyedAmirNimaGhaebi/blob/main/image/fluttershop-channel-youtube.png?raw=true" width="20px"></a>
+  <a href="https://t.me/dev_music_channel"><img src="https://github.com/SeyyedAmirNimaGhaebi/SeyyedAmirNimaGhaebi/blob/main/image/fluttershop-channel-instagram.png?raw=true" width="290px"></a>
 </div>
 
 
