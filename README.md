@@ -9,7 +9,7 @@
 <h2 align="center">Connect with me:</h2>
 
 <div align="center">
-  <a href="https://t.me/AmirGh_666"><img src="https://github.com/SeyyedAmirNimaGhaebi/SeyyedAmirNimaGhaebi/blob/main/image/telegram_app_88px.png?raw=true" height="50px" width="50px"></a>
+  <a href="https://t.me/Amir_gh_dev"><img src="https://github.com/SeyyedAmirNimaGhaebi/SeyyedAmirNimaGhaebi/blob/main/image/telegram_app_88px.png?raw=true" height="50px" width="50px"></a>
   <a href="https://www.youtube.com/channel/UC_kZNtkh55fPCCUAcM4ABmg"><img src="https://github.com/SeyyedAmirNimaGhaebi/SeyyedAmirNimaGhaebi/blob/main/image/YouTube_88px.png?raw=true" height="50px"width="50px"></a></a>
   <a href="https://www.instagram.com/amirgh_888/#"><img src="https://github.com/SeyyedAmirNimaGhaebi/SeyyedAmirNimaGhaebi/blob/main/image/instagram_logo_88px.png?raw=true" height="50px" width="50px">
   <a href="https://s8.uupload.ir/files/untitled_y017.png"><img src="https://github.com/SeyyedAmirNimaGhaebi/SeyyedAmirNimaGhaebi/blob/main/image/email_open_88px.png?raw=true" height="50px" width="50px">
@@ -51,7 +51,7 @@
 <h2 align="center">👇Don’t forget to follow my channels👇</h2>
 
 <div align="center">
-  <a href="https://t.me/AmirGh_666"><img src="https://github.com/SeyyedAmirNimaGhaebi/SeyyedAmirNimaGhaebi/blob/main/image/Untitled-6.png?raw=true" width="300px"></a>
+  <a href="https://t.me/dev_music_channel"><img src="https://github.com/SeyyedAmirNimaGhaebi/SeyyedAmirNimaGhaebi/blob/main/image/dev-music-channel.png?raw=true" width="300px"></a>
    <a href="https://t.me/AmirGh_666"><img src="https://github.com/SeyyedAmirNimaGhaebi/SeyyedAmirNimaGhaebi/blob/main/image/fluttershop-channel-youtube.png?raw=true" width="300px"></a>
 </div>
 
