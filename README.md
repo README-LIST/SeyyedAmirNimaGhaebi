@@ -48,7 +48,7 @@
 </div>
 
 
-<h2 align="center">Test</h2>
+<h2 align="center">👇Follow my channels👇</h2>
 
 <div align="center">
   <a href="https://t.me/AmirGh_666"><img src="https://github.com/SeyyedAmirNimaGhaebi/SeyyedAmirNimaGhaebi/blob/main/image/Untitled-6.png?raw=true" width="300px"></a>
