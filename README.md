@@ -134,7 +134,7 @@ I think these code repositories are okay...
 <a href="https://github.com/SeyyedAmirNimaGhaebi/Login-and-Signup-Ui">👁 More details about the project</a>
 
 <div align="center">
-   <a href="https://github.com/SeyyedAmirNimaGhaebi/My-best-portfolios"><img src="https://github.com/SeyyedAmirNimaGhaebi/SeyyedAmirNimaGhaebi/blob/main/image/View_all_portfolios.png?raw=true" width="280px"></a>
+   <a href="https://github.com/SeyyedAmirNimaGhaebi/My-best-portfolios"><img src="https://github.com/SeyyedAmirNimaGhaebi/SeyyedAmirNimaGhaebi/blob/main/image/View_all_portfolios.png?raw=true" width="400px"></a>
 </div>
 
 ---
