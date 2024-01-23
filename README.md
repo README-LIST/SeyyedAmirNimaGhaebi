@@ -6,7 +6,7 @@
 
 ![Untitled-1](https://github.com/SeyyedAmirNimaGhaebi/SeyyedAmirNimaGhaebi/assets/124828880/301cabce-88ac-4e58-948b-5c63b6402d69)
 
-<h2 align="center">Connect with me:</h2>
+d
 
 <div align="center">
   <a href="https://t.me/Amir_gh_dev"><img src="https://github.com/SeyyedAmirNimaGhaebi/SeyyedAmirNimaGhaebi/blob/main/image/telegram_app_88px.png?raw=true" height="50px" width="50px"></a>
