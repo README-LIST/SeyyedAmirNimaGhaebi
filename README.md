@@ -83,7 +83,7 @@ I think these code repositories are okay...
     <tr>
       <td>
         <a href="https://github.com/SeyyedAmirNimaGhaebi/Flutter130">
-          <img align="center" src="https://github.com/SeyyedAmirNimaGhaebi/Flutter130&repo=Flutter130&theme=dark" />
+          <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SeyyedAmirNimaGhaebi&repo=Flutter130&theme=dark" />
         </a>
       </td>
       <td>
@@ -91,7 +91,11 @@ I think these code repositories are okay...
           <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SeyyedAmirNimaGhaebi&repo=DataBase_hive_in_flutter&theme=dark" />
         </a>
       </td>
-
+      <td>
+        <a href="https://github.com/SeyyedAmirNimaGhaebi/pub_news">
+          <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SeyyedAmirNimaGhaebi&repo=pub_news&theme=dark" />
+        </a>
+      </td>
     </tr>
   </tbody>
 </table>
